@@ -6,12 +6,12 @@ Article 25 (Data Protection by design and default) and 35 (Data Protection Impac
 The idea here is to present an approach to capturing privacy (EU, UK) requirements, and designing them in to a solution, using a standard approach. This is a living document, taking an holistic approach, that takes in to account people, processes, and technology; as well as governance, risk management and compliance. 
 
 Phase one:
-[Capture the business case]->[Privacy Impact Assessment]->[Ensure funding for state of the art, appropriate, proportionate privacy enhancing technologies, processes, practices, and people are available and suitable]
+[Capture the business case]->[Data Protection Impact Assessment]->[Ensure funding for state of the art, appropriate, proportionate privacy enhancing technologies, processes, practices, and people are available and suitable]
 
 Phase two:
 [Funded business case / project]->[Capture the privacy requirements]->[Create privacy stories]->[Implement controls]-[data lifecycle management]
 
-Phast three:
+Phase three:
 [Lifecycle management]:[Birth]->[Life]->[Death] (Governance, risk and compliance)
 
 
